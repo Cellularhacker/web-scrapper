@@ -16,7 +16,7 @@
     "nodemon": "^3.1.0",
     "prettier": "^3.2.5",
     "sucrase": "^3.35.0",
-    "typescript": "^5.4.3"
+    "typescript": "^5.4.4"
   },
   "scripts": {
     "dev": "nodemon --watch src --exec sucrase-node src/index.ts",
